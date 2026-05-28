@@ -1,0 +1,28 @@
+{
+  "name": "evi-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --mode development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "@babel/preset-react": "^7.29.7",
+    "babel-loader": "^10.1.1",
+    "cors": "^2.8.6",
+    "css-loader": "^7.1.4",
+    "express": "^5.2.1",
+    "html-webpack-plugin": "^5.6.7",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.107.2",
+    "webpack-cli": "^7.0.3",
+    "webpack-dev-server": "^5.2.4"
+  }
+}
